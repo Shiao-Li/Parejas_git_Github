@@ -9,4 +9,5 @@ public class Universidades {
     String hola4;
     String hola5;
     String holaAux;
+    int nuum;
 }

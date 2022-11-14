@@ -3,7 +3,7 @@ public class Universidades {
     int cant_estu;
     String ranking;
     int numAulass;
-    String carreras;
+    String carrerass;
     String hola2;
     String hola3;
     String hola4;

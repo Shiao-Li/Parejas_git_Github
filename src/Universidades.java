@@ -4,4 +4,5 @@ public class Universidades {
     String ranking;
     int numAulass;
     String hola;
+    String hola2;
 }

@@ -6,4 +6,5 @@ public class Universidades {
     String hola;
     String hola2;
     String hola3;
+    String hola4;
 }

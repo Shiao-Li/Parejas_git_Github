@@ -5,4 +5,5 @@ public class Universidades {
     int numAulass;
     String hola;
     String hola2;
+    String hola3;
 }
